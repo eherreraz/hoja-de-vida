@@ -1,0 +1,19 @@
+# Credenciales y archivos sensibles
+tokens.txt
+*token*
+*.env
+.env*
+!/.env.example
+
+# Material fuente del portafolio
+referencia.webp
+hoja de vida sena.docx
+*.docx
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vercel
+.vercel/
